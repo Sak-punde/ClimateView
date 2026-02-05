@@ -33,10 +33,49 @@ This project is suitable for:
 ## 🛠️ Technologies Used
 
 - **Frontend:** React.js, HTML, CSS, JavaScript  
-- **API:** Open-Meteo Weather API  
+- **API:** Weather API  
 - **Tools:** Node.js, npm, VS Code  
 
 ---
 
 ## 📂 Project Structure
+
+climate-view/
+│
+├── public/
+│ └── index.html
+│
+├── src/
+│ ├── components/
+│ │ └── WeatherCard.js
+│ │
+│ ├── App.js
+│ ├── App.css
+│ ├── index.js
+│ └── index.css
+│
+├── package.json
+└── README.md
+
+
+---
+
+## 🖼️ Screenshots
+
+### 🔹 Home Page
+![Home Page](screenshots/home.png)
+
+### 🔹 Weather Result
+![Weather Result](screenshots/weather.png)
+
+
+
+
+
+
+
+
+
+
+.
 
