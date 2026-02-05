@@ -47,7 +47,7 @@ function App() {
 
   return (
   <div className="app">
-    <h1>🌦️ Weather App</h1>
+    <h1>🌦️ ClimateView</h1>
  <br/>
     
     <div className="search-box">
