@@ -63,10 +63,10 @@ climate-view/
 ## 🖼️ Screenshots
 
 ### 🔹 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](public/screenshots/home.png)
 
 ### 🔹 Weather Result
-![Weather Result](screenshots/weather.png)
+![Weather Result](public/screenshots/weather.png)
 
 
 
